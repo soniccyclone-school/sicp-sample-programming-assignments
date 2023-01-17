@@ -21,11 +21,6 @@ There is a separate directory for each assignment. In general, individual direct
 
 The PostScript files here are provided as a guide to what the problem sets should look like. You should not expect to simply print them out and assign them without modification. Some of the assignments available rely on specific features of MIT Scheme and idiosyncrasies our programming environment at MIT. Also, the exercise numbers alluded to in "the course notes" may not match the published textbook, since these assignments were constructed before the final revisions to the manuscript. In some cases (such as the adventure game) you will want to modify the problem set to remove MIT-isms and replace them with your own local color. Finally, the assignments are referred to by number -- problem set 1, problem set 2, etc. These numbers are the assignment numbers used during the semester that each one was assigned at MIT, and you will likely want to change them.
 
-### Copyright
-
-Copyright © 1985-1996 Massachusetts Institute of Technology.
-The material in these problem sets may be duplicated, modified, and redistributed for any non-commercial use in conjunction with the book Structure and Interpretation of Computer Programs.
-
 ---
 
 ## Available assignments
