@@ -126,3 +126,4 @@
 (define (get-nth-from-last-game n my-history other-history)
   (make-game (get-nth-from-last-play n my-history)
              (get-nth-from-last-play n other-history)))
+
