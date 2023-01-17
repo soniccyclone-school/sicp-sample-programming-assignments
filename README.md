@@ -33,3 +33,18 @@ The material in these problem sets may be duplicated, modified, and redistribute
 |Assignment|Relevant sections in textbook|
 |-|-|
 |Introductory assignment|1.1|
+|The game of twenty-one|1.3|
+|Graphing with higher-order procedures|1.3|
+|Continued fractions|1.3|
+|RSA encryption|1.2.6, 2.2.1|
+|Prisoner's dilemma|1.3, 2.2.1|
+|Picture language|2.2.4|
+|Term-rewriting evaluator|1.1, 2.3|
+|Automated freshman advisor|2.3|
+|Generic Arithmetic|2.4, 2.5|
+|Object-oriented adventure game|3.1, 3.2, 3.3|
+|Concurrency|3.4|
+|Streams and series|3.5|
+|Evaluators|4.1, 4.2|
+|Languages for object-oriented progamming|4.1|
+|Register machines and compilation|5.1, 5.2, 5.4, 5.5|
