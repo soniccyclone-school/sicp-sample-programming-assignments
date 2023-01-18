@@ -1,12 +1,16 @@
 # SICP Sample Programming Assignments
 
-This repository serves as a mirror of the Sample Programming Assignments from the Structure and Interpretation of Computer Programs second edition's website.
+This repository serves as an archive of the Sample Programming Assignments from the Structure and Interpretation of Computer Programs second edition's companion website.
 
 Quality of life improvements have been performed by offering the sample code in scheme files instead of HTML; and PostScript files have been rendered to PDFs as well.
 
-The README files within each directory will be a markdown version of the original HTML page from the SICP site.
+The README files within each directory are a markdown version of the original HTML page from the SICP site.
 
-## Sample Programming Assignments
+None of the content within this repository is my own. [All attribution goes to the original authors.](./LICENSE.md) My only work in this repository was in formatting the data to be more accessible by modern computers.
+
+<br />
+
+# Sample Programming Assignments
 
 This selection of programming assignments, drawn from material developed for MIT's introductory computer science subject, is provided for the convenience of instructors teaching courses based on *Structure and Interpretation of Computer Programs*, and as a self-study aid for people using the book on their own.
 
