@@ -27,19 +27,19 @@ The PostScript files here are provided as a guide to what the problem sets shoul
 
 |Assignment|Relevant sections in textbook|
 |-|-|
-|Introductory assignment|1.1|
-|The game of twenty-one|1.3|
-|Graphing with higher-order procedures|1.3|
-|Continued fractions|1.3|
-|RSA encryption|1.2.6, 2.2.1|
-|Prisoner's dilemma|1.3, 2.2.1|
-|Picture language|2.2.4|
-|Term-rewriting evaluator|1.1, 2.3|
-|Automated freshman advisor|2.3|
-|Generic Arithmetic|2.4, 2.5|
-|Object-oriented adventure game|3.1, 3.2, 3.3|
-|Concurrency|3.4|
-|Streams and series|3.5|
-|Evaluators|4.1, 4.2|
-|Languages for object-oriented progamming|4.1|
-|Register machines and compilation|5.1, 5.2, 5.4, 5.5|
+|[Introductory assignment](./Introductory%20assignment/README.md)|1.1|
+|[The game of twenty-one](./The%20game%20of%20twenty-one/README.md)|1.3|
+|[Graphing with higher-order procedures](./Graphing%20with%20higher-order%20procedures/README.md)|1.3|
+|[Continued fractions](./Continued%20fractions/README.md)|1.3|
+|[RSA encryption](./RSA%20encryption/README.md)|1.2.6, 2.2.1|
+|[Prisoner's dilemma](./Prisoners%20dilemma/README.md)|1.3, 2.2.1|
+|[Picture language](./Picture%20language/README.md)|2.2.4|
+|[Term-rewriting evaluator](./Term-rewriting%20evaluator/README.md)|1.1, 2.3|
+|[Automated freshman advisor](./Freshman%20advisor/README.md)|2.3|
+|[Generic Arithmetic](./Generic%20arithmetic/README.md)|2.4, 2.5|
+|[Object-oriented adventure game](./Object-oriented%20adventure%20game/README.md)|3.1, 3.2, 3.3|
+|[Concurrency](./Concurrency/README.md)|3.4|
+|[Streams and series](./Streams%20and%20series/README.md)|3.5|
+|[Evaluators](./Evaluators/README.md)|4.1, 4.2|
+|[Languages for object-oriented progamming](./Languages%20for%20object-oriented%20programming/README.md)|4.1|
+|[Register machines and compilation](./Register%20Machines%20and%20Compilation/README.md)|5.1, 5.2, 5.4, 5.5|
