@@ -11,3 +11,5 @@ This assignment can be a bit mindblowing, since it gives such a fast immersion i
 |ps2.tex|TeX source for the assignment. (We're sorry: the image files required to regenerate the figures are unavailable for this assignment.)|
 |curves.scm<br />drawing.scm<br />utils.scm|Scheme source code required for this assignment.|
 |ps2.ps|Postscript file for printing the assignment|
+
+⬅[Return to sample assignment page](../README.md)

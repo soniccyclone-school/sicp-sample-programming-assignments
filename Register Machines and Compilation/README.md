@@ -9,3 +9,5 @@ This assignment covers the three major programs introduced in chapter 5 -- regis
 |ps10.tex|TeX source for the assignment.|
 |ps10.ps|Postscript file for printing the assignment|
 |assemble.scm<br />compdata.scm<br />compiler.scm<br />eceval.scm<br />evdata.scm<br />naivecom.scm<br />regsim.scm<br />syntax.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

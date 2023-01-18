@@ -9,3 +9,5 @@ This assignment explores the use of infinite streams to represent power series.
 |ps9.tex|TeX source for the assignment.|
 |ps9.ps|Postscript file for printing the assignment|
 |ps9code.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

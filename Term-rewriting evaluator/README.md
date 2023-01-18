@@ -15,3 +15,5 @@ We are grateful to Prof. Albert Meyer of MIT for developing this assignment and 
 |trnotes.tex|TeX source for the supplementary handout.|
 |trnotes.ps|Postscript file for printing the supplementary handout.|
 |smeval.scm<br />smfresh.scm<br />smscope.scm<br />smstep.scm<br />smsyntax.scm<br />temp.scm<br />tests.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

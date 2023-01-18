@@ -13,3 +13,5 @@ Note: The construction of this assignment predates our final revison of the text
 |ps7oop.tex|TeX source for the assignment.|
 |ps7oop.ps|Postscript file for printing the assignment|
 |teval.scm<br />mod.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

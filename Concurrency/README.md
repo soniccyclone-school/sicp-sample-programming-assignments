@@ -11,3 +11,5 @@ The code for this assignment relies on the parallel-execute facility (see the te
 |ps7.tex|TeX source for the assignment.|
 |ps7.ps|Postscript file for printing the assignment|
 |gauss.scm<br />parallel.scm<br />nikkei.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

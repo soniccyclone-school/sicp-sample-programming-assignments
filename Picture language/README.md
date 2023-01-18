@@ -12,3 +12,5 @@ The code below includes an implementation of primitive painters for line-drawing
 |hend.scm<br />hutils.scm<br />psgo.scm|Scheme source code required for this assignment.|
 |prmpnt.scm|Scheme source code implementing constructors for primitive painters (highly MIT Scheme specific). You should compile this file to obtain adequate performance.|
 |einstein.pgm<br />fovnder.pgm|Sample pgm files that can be used to create painters.|
+
+⬅[Return to sample assignment page](../README.md)

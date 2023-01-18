@@ -9,3 +9,5 @@ This assignment presents a simple game-playing program, in which strategies are 
 |ps2tw1.tex|TeX source for the assignment.|
 |ps2tw1.scm|Scheme source code required for this assignment.|
 |ps2tw1.ps|Postscript file for printing the assignment|
+
+⬅[Return to sample assignment page](../README.md)

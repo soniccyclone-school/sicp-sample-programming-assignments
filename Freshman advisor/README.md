@@ -11,3 +11,5 @@ The pattern matcher here is quite sophisticated. It uses success and failure con
 |adv.tex|TeX source for the assignment.|
 |adv.ps|Postscript file for printing the assignment|
 |adv.scm<br />match.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

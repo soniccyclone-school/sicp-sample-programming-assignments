@@ -13,3 +13,5 @@ The actual assignment has students extend and modify an adventure-style game, wh
 |notes.tex|Tex source for supplementary notes on object-oriented programming. (Sources for the figures are missing -- sorry.)|
 |notes.ps|Postscript file for printing the notes.|
 |game.scm<br />world.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

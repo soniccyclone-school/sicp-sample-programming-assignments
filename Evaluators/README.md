@@ -9,3 +9,5 @@ This assignment covers the evaluators presented at the beginning of chapter 4: t
 |ps8.tex|TeX source for the assignment.|
 |ps8.ps|Postscript file for printing the assignment|
 |analyze.scm<br />evdata.scm<br />meval.scm<br />syntax.scm<br />ps8defs.scm<br />ps8-ans.scm|Scheme source code required for this assignment.|
+
+⬅[Return to sample assignment page](../README.md)

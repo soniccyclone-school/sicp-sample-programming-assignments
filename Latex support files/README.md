@@ -9,3 +9,6 @@ You will need the following files in order to process the LaTeX sources included
 epsfig.sty
 
     Style extension for including postscript figures.
+
+
+⬅[Return to sample assignment page](../README.md)

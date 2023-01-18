@@ -8,3 +8,5 @@ The assignment describes the use of higher-order procedures to implement operati
 |-|-|
 |ps2cnt.tex|TeX source for the assignment.|
 |ps2cnt.ps|Postscript file for printing the assignment|
+
+⬅[Return to sample assignment page](../README.md)
